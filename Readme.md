@@ -25,7 +25,7 @@ The table shows a hierarchical view of skus that meet the filter requirements.  
 
 [![dashboard][1]][2]
 
-[1]:  https://github.com/pgaljan/blog/assets/11296072/3ee9b0d7-0042-4882-bcec-82a4e799a41d
+[1]:  https://github.com/pgaljan/blog/assets/11296072/54e107ab-46ea-43e7-ac21-60f318ab5120
 [2]:  https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9 "Redirect to homepage"
 
 Contractual filters are critical to get refined numbers.  Set as many as can be reasonably determined including:
